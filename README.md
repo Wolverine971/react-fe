@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is the React version of a [Vue Frontend](https://github.com/Wolverine971/personalityFE)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
